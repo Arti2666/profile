@@ -39,9 +39,17 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
-button {
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 2000;
+  font-size: larger;
+  font-style: bolder;
+}
+
+#email {
   font-size: 15px;
-  background-color: #5dafe6 ;
   width: 115px;
   height: 70px;
   border-radius: 25%;
@@ -51,7 +59,7 @@ button:hover {
   background-color: #F08700 ;
 }
 
-a {
+.fab {
   color: #ffffff;
   text-decoration: none;
   font-weight: 2000;
